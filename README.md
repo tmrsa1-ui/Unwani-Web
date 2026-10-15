@@ -1,8 +1,29 @@
-# عنواني — Unwani Web
+<div dir="rtl">
 
-Live review (user Pages):
-https://tmrsa1-ui.github.io/unwani/
+# 📍 عنواني · Unwani
 
-This repo is the standalone static PWA. Source engine: https://github.com/tmrsa1-ui/Unwani-Code
+**يحلل العناوين الخليجية المكتوبة بشكل حر ويحوّلها لحقول منظمة — داخل متصفحك، بلا تسجيل، وبلا إرسال النص لأي خادم.**
 
-Local-first. Not official verification.
+<p>
+  <a href="https://tmrsa1-ui.github.io/unwani/"><img src="https://img.shields.io/badge/%D8%AC%D8%B1%D9%91%D8%A8%20%D8%A7%D9%84%D8%A2%D9%86-Live%20Demo-0b7285?style=for-the-badge" alt="جرّب الآن"></a>
+  <img src="https://img.shields.io/badge/PWA-offline-5A0FC8?style=flat-square&logo=pwa" alt="PWA">
+  <img src="https://img.shields.io/badge/%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9-%D9%85%D8%AD%D9%84%D9%8A%20%D8%A8%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-2e7d32?style=flat-square" alt="محلي بالكامل">
+</p>
+
+## ✨ وش يسوي
+
+- تلصق عنوانًا مكتوبًا بأي صيغة (حي، شارع، رقم مبنى، رمز بريدي، العنوان المختصر…).
+- يطلع لك الحقول مفصولة ومرتبة لمراجعتها ونسخها.
+- يشتغل بدون إنترنت بعد أول فتح (تطبيق ويب تقدّمي).
+
+## ⚠️ حدود صادقة
+
+- التحليل **محلي وتقديري**، وليس تحققًا رسميًا من العنوان ولا مرتبطًا بأي جهة بريدية أو حكومية.
+- راجع النتيجة دائمًا قبل الاعتماد عليها.
+
+## 🗂️ عن هذا المستودع
+
+هذا المستودع هو مضيف GitHub Pages للنسخة العامة. التطبيق الحي على:
+**https://tmrsa1-ui.github.io/unwani/**
+
+</div>
